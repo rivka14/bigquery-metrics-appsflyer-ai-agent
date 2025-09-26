@@ -1,7 +1,7 @@
 # BigQuery Metrics AppsFlyer AI Agent
 
-An AI-powered analytics agent that lets you ask natural language questions about AppsFlyer performance marketing data stored in Google BigQuery. 
-It converts plain English into safe, optimized SQL, executes it, computes standardized growth & monetization metrics (installs, ROAS, retention, revenue cohorts, cost efficiency), and returns structured results with summaries, visualization specs, and suggested follow‑ups.
+AI-powered analytics agent for querying AppsFlyer performance data in BigQuery using natural language. 
+Converts plain English questions into optimized SQL queries and computes metrics based on official AppsFlyer documentation.
 
 > Think of it as a conversational analyst for your AppsFlyer + BigQuery data.
 
