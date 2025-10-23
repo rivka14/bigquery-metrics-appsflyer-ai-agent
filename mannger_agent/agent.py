@@ -5,7 +5,7 @@ from bigquery_analyst_sub_agent.agent import bigquery_analyst_agent
 
 root_agent = Agent(
     name="manager",
-    model="gemini-2.0-flash",
+    model="gemini-2.5-flash",
     description="Event-driven manager that matches AppsFlyer metrics with BigQuery data analysis",
     instruction="""
     You are an intelligent manager agent that follows a specific two-step workflow: 
