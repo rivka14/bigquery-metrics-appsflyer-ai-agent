@@ -141,5 +141,5 @@ root_agent = Agent(
     sub_agents=[bigquery_analyst_agent],
     tools=[
         AgentTool(agent=appsflyer_metrics_agent),
-    ],
+    ]
 )
